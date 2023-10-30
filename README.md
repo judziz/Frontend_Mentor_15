@@ -1,9 +1,9 @@
-# Second assignement from Frontend Mentor.
+# 15th assignement from Frontend Mentor.
 
 | Useful Links  |
 | ----------------- |
 [Assignement Link](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5)
-[Vercel Link - Desktop version](https://frontend-mentor-03.vercel.app/)
+[Vercel Link - Desktop version](https://frontend-mentor-15-snowy.vercel.app/)
 
 ---
 
